@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T10:22:51.230Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XXV-V9LalD13VTx02y0i" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T09:24:12.269Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BG1Sb7JgharH1Q0UzG3V" version="20.0.4" type="github">
   <diagram id="3FoYa13-KBL38VeBXBWS" name="Page-1">
     <mxGraphModel dx="1426" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint x="170" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="50bPCj3TIs-8iO-mDuQu-14" value="zplus_search_similar_prerank_traindata_1 (知+搜索相似度预排序训练数据生成_1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="50bPCj3TIs-8iO-mDuQu-14" value="&lt;b&gt;zplus_search_similar_prerank_traindata_1 (知+搜索相似度预排序训练数据生成_1)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="280" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="50bPCj3TIs-8iO-mDuQu-22" value="&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;md-plain&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;datahub_vectors.answer_content_bert_64d&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;md-plain&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;datahub_vectors.article_content_bert_64d&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;md-plain&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;datahub_vectors.article_title_bert_128d&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;md-plain&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;datahub_vectors.question_title_bert_128d&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -23,7 +23,7 @@
             <mxPoint x="330" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="50bPCj3TIs-8iO-mDuQu-26" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;search_zplus_similar_daily_preRank_2&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="50bPCj3TIs-8iO-mDuQu-25">
+        <mxCell id="50bPCj3TIs-8iO-mDuQu-26" value="&lt;b&gt;zplus_search_similar_prerank_traindata_2 (知+搜索相似度预排序训练数据生成_2)&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="50bPCj3TIs-8iO-mDuQu-25">
           <mxGeometry x="-0.08" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -31,7 +31,7 @@
         <mxCell id="50bPCj3TIs-8iO-mDuQu-24" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="315" y="420" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="50bPCj3TIs-8iO-mDuQu-37" value="sign_parser" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="50bPCj3TIs-8iO-mDuQu-27">
+        <mxCell id="50bPCj3TIs-8iO-mDuQu-37" value="&lt;b&gt;&lt;u&gt;sign_parser&lt;/u&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="50bPCj3TIs-8iO-mDuQu-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="660" as="targetPoint" />
           </mxGeometry>
@@ -59,10 +59,7 @@
         <mxCell id="50bPCj3TIs-8iO-mDuQu-31" value="一堆表......" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="710" y="190" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="50bPCj3TIs-8iO-mDuQu-36" value="&lt;b&gt;&lt;u&gt;zhihu_adctr.search_zplus_emb_pre_daily_v2&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="500" y="560" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="50bPCj3TIs-8iO-mDuQu-40" value="train_data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="50bPCj3TIs-8iO-mDuQu-38" target="50bPCj3TIs-8iO-mDuQu-39">
+        <mxCell id="50bPCj3TIs-8iO-mDuQu-40" value="&lt;b&gt;&lt;u&gt;train_data&lt;/u&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="50bPCj3TIs-8iO-mDuQu-38" target="50bPCj3TIs-8iO-mDuQu-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="50bPCj3TIs-8iO-mDuQu-38" value="hdfs:///user/ca_alg/data/zrec/models/zplus_search_similar_prerank_new/sign_features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
@@ -76,8 +73,11 @@
         <mxCell id="50bPCj3TIs-8iO-mDuQu-39" value="hdfs:///user/ca_alg/data/zrec/models/zplus_search_similar_prerank_new/nn/v2/features/train_data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="70" y="770" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="50bPCj3TIs-8iO-mDuQu-42" value="zplus_search_similar_recall_model (知+搜索 --相似度召回模型)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="50bPCj3TIs-8iO-mDuQu-42" value="&lt;b&gt;zplus_search_similar_recall_model (知+搜索 --相似度召回模型)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="210" y="850" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="50bPCj3TIs-8iO-mDuQu-43" value="&lt;span style=&quot;&quot;&gt;zhihu_adctr.search_zplus_emb_pre_daily_v2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="545" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
